@@ -1,0 +1,8 @@
+name: BagCheck
+version: '${project.version}'
+main: de.illegalaccess.bagcheck.BagCheck
+api-version: 1.18
+authors: [ IllegalAccess ]
+
+commands:
+  check:
