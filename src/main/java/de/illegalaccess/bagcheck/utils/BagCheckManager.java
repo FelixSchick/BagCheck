@@ -44,7 +44,7 @@ public class BagCheckManager {
                 }
             }, 21*4);
         } else
-            checker.sendMessage("§cDu durchsuchtst bereits jemanden.");
+            checker.sendMessage("§cDu durchsuchst bereits jemanden.");
     }
 
     public void cancleCheckPlayer(Player target) {
